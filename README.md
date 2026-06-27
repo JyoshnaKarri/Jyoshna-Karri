@@ -51,6 +51,4 @@ RTL Design & Verification using Verilog — building and simulating digital hard
 🔗 [LinkedIn](https://linkedin.com/in/jyoshna-k-5b1626401)  
 🐙 [GitHub](https://github.com/karriudaya259-blip)  
 
----
 
-*"Building the future, one Verilog module at a time."*
