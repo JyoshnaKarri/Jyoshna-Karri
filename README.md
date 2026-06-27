@@ -50,7 +50,6 @@ RTL Design & Verification using Verilog — building and simulating digital hard
 📧 kjyoshna2021@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/jyoshna-k-5b1626401)  
 🐙 [GitHub](https://github.com/karriudaya259-blip)  
-📄 [Resume](https://github.com/karriudaya259-blip/karriudaya259-blip/raw/main/Resume.pdf) *(replace with your actual resume link if hosted)*
 
 ---
 
