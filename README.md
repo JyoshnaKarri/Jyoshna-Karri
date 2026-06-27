@@ -41,7 +41,7 @@ RTL Design & Verification using Verilog — building and simulating digital hard
 - 🔍 Actively seeking VLSI / RTL Design / Embedded Systems internship opportunities  
 - 📚 Deepening knowledge of SystemVerilog, UVM, and synthesis/STA  
 - 🛠️ Building toward FPGA implementation of my RTL designs  
-- 🎯 Preparing for Amazon ML Summer School 2026 Selection Test
+- 🎯 Exploring ML Applications in Hardware Design
 
 ---
 
